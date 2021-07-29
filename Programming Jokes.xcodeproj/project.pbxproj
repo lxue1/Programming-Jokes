@@ -11,6 +11,7 @@
 		FB02E68326B30BB5009A5049 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB02E68226B30BB5009A5049 /* ContentView.swift */; };
 		FB02E68526B30BB6009A5049 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB02E68426B30BB6009A5049 /* Assets.xcassets */; };
 		FB02E68826B30BB6009A5049 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB02E68726B30BB6009A5049 /* Preview Assets.xcassets */; };
+		FB02E69026B3132E009A5049 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB02E68F26B3132E009A5049 /* SwiftyJSON.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		FB02E68426B30BB6009A5049 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FB02E68726B30BB6009A5049 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		FB02E68926B30BB6009A5049 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FB02E68F26B3132E009A5049 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SwiftyJSON.swift; path = "../../SwiftyJSON-master/Source/SwiftyJSON/SwiftyJSON.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				FB02E68226B30BB5009A5049 /* ContentView.swift */,
 				FB02E68426B30BB6009A5049 /* Assets.xcassets */,
 				FB02E68926B30BB6009A5049 /* Info.plist */,
+				FB02E68F26B3132E009A5049 /* SwiftyJSON.swift */,
 				FB02E68626B30BB6009A5049 /* Preview Content */,
 			);
 			path = "Programming Jokes";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FB02E69026B3132E009A5049 /* SwiftyJSON.swift in Sources */,
 				FB02E68326B30BB5009A5049 /* ContentView.swift in Sources */,
 				FB02E68126B30BB5009A5049 /* Programming_JokesApp.swift in Sources */,
 			);
